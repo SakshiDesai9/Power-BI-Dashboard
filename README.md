@@ -36,5 +36,4 @@ This dashboard helps stakeholders to:
 
 ## 🖼️ Preview
 
-<img width="1166" height="655" alt="{C9403462-6C75-4ED2-87A0-A2BBD04BB7C8}" src="https://github.com/user-attachments/assets/e2c33dc9-4cbe-4f33-b4c3-7d7abb63a6eb" />
-
+<img width="1171" height="656" alt="{3AEAFB48-82AC-40DD-AB4F-2A5240FC7975}" src="https://github.com/user-attachments/assets/8d515193-5c00-4b2a-84c7-4efc63dcaaef" />
